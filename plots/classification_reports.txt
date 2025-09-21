@@ -1,0 +1,29 @@
+Digit Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.97      0.95      0.96        60
+           1       0.96      0.90      0.93        60
+           2       0.90      0.93      0.92        60
+           3       1.00      0.88      0.94        60
+           4       0.92      1.00      0.96        60
+           5       0.94      1.00      0.97        60
+           6       0.91      1.00      0.95        60
+           7       1.00      0.97      0.98        60
+           8       0.98      0.97      0.97        60
+           9       0.95      0.92      0.93        60
+
+    accuracy                           0.95       600
+   macro avg       0.95      0.95      0.95       600
+weighted avg       0.95      0.95      0.95       600
+
+
+Gender Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99       274
+           1       0.99      1.00      0.99       326
+
+    accuracy                           0.99       600
+   macro avg       0.99      0.99      0.99       600
+weighted avg       0.99      0.99      0.99       600
+
