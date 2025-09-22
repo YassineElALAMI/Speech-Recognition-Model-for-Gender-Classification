@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Data / outputs
+dataset/
+models/
+plots/
+recordings/
+
+# Model files
+*.h5
+*.keras
+
+# Environment / credentials
+.env
+.env.*
+
+# Misc
+pip-wheel-metadata/
+dist/
+build/
